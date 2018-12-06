@@ -1,2 +1,3 @@
 test document
 This line added by -Philip-
+The correct line
